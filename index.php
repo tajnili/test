@@ -1,5 +1,5 @@
 <?php
-//test
+//test 2 is test
 require('class.phpmailer.php');
 $mail=new PHPMailer();
 $mail->CharSet = 'UTF-8';
